@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  font-family: Times New Roman, sans-serif;
+  background-color: #fffbed;
+  color: #ffb9b9; 
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 10;
+  background-color: #e1ebe2;
+  color: #93ad9e;
+}
+
+h2 {
+    color: #ffb9b9;
+}
+
+p {
+    color: #5b3e31;
+}
+
